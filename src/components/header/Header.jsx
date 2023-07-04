@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => {
 	return (
 		<header>
-			<h1>🛒 Ecommerce App</h1>
+			<h1>Online Art Gallery</h1>
 		</header>
 	);
 };
